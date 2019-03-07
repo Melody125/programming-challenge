@@ -9,6 +9,7 @@ import java.util.ArrayList;
  * classes and packages as appropriate.
  *
  * @author Benjamin Schmid <benjamin.schmid@exxcellent.de>
+ * @author Melanie Braun
  */
 public final class App {
 
